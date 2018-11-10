@@ -1,0 +1,5 @@
+
+WEBDRIVER_PATH=/home/projects/trailhead/geckodriver
+TRAILHEAD_MODULES=https://trailhead.salesforce.com/en/modules
+BRUTUS_USER=<GMAIL USER>
+BRUTUS_PASSWORD=<GMAIL PASSWORD>
